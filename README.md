@@ -1,0 +1,2 @@
+# CodeQLTest
+ test
